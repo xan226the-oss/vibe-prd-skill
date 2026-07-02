@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vibe PRD"
+  short_description: "Turn rough product inputs into coding PRDs"
+  default_prompt: "Use $vibe-prd to turn my rough requirement, PRD, or competitor notes into a concise Vibe coding PRD."
